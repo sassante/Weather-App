@@ -18,7 +18,7 @@ Integration with a Weather API for real-time data
 
 How to Use:
 
-Visit the Weather App website.
-Enter the name of your city or the location you want to check the weather for.
-Explore current conditions and the extended forecast.
+Visit the Weather App website
+Enter the name of your city or the location you want to check the weather for
+Explore current conditions and the extended forecast
 Feel free to contribute, report issues, or provide feedback to enhance the functionality of this Weather App.
