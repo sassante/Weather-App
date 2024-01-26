@@ -2,7 +2,7 @@
 
 Welcome to the Weather App! This web application provides real-time weather information for a specified location. It is built using HTML, CSS, and JavaScript, and it leverages a weather API for accurate and up-to-date data.
 
-## Table of Contents
+Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -13,26 +13,26 @@ Welcome to the Weather App! This web application provides real-time weather info
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
+Features
 
 - Current weather information display.
 - Forecast details for the day.
 - Responsive design for various devices.
 - Integration with a weather API for accurate data.
 
-## Getting Started
+Getting Started
 
-### Prerequisites
+ Prerequisites
 
 Before you begin, ensure you have the following tools installed:
 
 - Web browser (Google Chrome, Mozilla Firefox, etc.)
 
-### API Key
+ API Key
 
 This Weather App relies on a weather API to fetch real-time data. Obtain a free API key by signing up at [Weather API](https://openweathermap.org). 
 
-### Installation
+ Installation
 
 1. Clone the repository:
 
@@ -56,11 +56,11 @@ This Weather App relies on a weather API to fetch real-time data. Obtain a free 
 2. Enter the location for which you want to check the weather.
 3. Click the "Get Weather" button to view the current weather and forecast.
 
-## API Reference
+API Reference
 
 The Weather App uses the [Weather API](https://openweathermap.org) for fetching weather data. Refer to their documentation for detailed information on available endpoints and response formats.
 
-## Contributing
+Contributing
 
 If you'd like to contribute to the project, follow these steps:
 
@@ -70,7 +70,7 @@ If you'd like to contribute to the project, follow these steps:
 4. Push your branch to your fork.
 5. Create a pull request on the original repository.
 
-## License
+ License
 
 This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
 
