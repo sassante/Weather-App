@@ -1,15 +1,15 @@
 Welcome to the Weather App! This web application provides real-time weather information for a specified location. It is built using HTML, CSS, and JavaScript, and it leverages a weather API for accurate and up-to-date data.
 
 Table of Contents
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [API Key](#api-key)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [API Reference](#api-reference)
-- [Contributing](#contributing)
-- [License](#license)
+[Features](#features)
+[Getting Started](#getting-started)
+[Prerequisites](#prerequisites)
+[API Key](#api-key)
+[Installation](#installation)
+[Usage](#usage)
+[API Reference](#api-reference)
+[Contributing](#contributing)
+[License](#license)
 
 Features
 
