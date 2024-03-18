@@ -22,7 +22,7 @@ Welcome to the Weather App! This web application provides real-time weather info
 
  - Prerequisites
 
- Before you begin, ensure you have the following tools installed:
+     Before you begin, ensure you have the following tools installed:
 
 - Web browser (Google Chrome, Mozilla Firefox, etc.)
 
