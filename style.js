@@ -22,13 +22,13 @@ document.addEventListener("DOMContentLoaded", async function () {
         document.querySelector(".temp").innerHTML = Math.round(data.main.temp) + "°c";
   
         if (data.weather[0].main == "Clouds") {
-          weatherIcon.src = "img/cloudy.jpeg";
+          weatherIcon.src = "cloudy.jpeg";
         } else if (data.weather[0].main == "Clear") {
-          weatherIcon.src = "img/sunny.jpg";
+          weatherIcon.src = "sunny.jpg";
         } else if (data.weather[0].main == "Wind") {
-          weatherIcon.src = "img/windy2.jpg";
+          weatherIcon.src = "windy2.jpg";
         } else if (data.weather[0].main == "Rain") {
-          weatherIcon.src = "img/rainyy2.jpg";
+          weatherIcon.src = "rainy2.jpg";
         }
   
         document.querySelector(".weather-section").style.display = "block";
