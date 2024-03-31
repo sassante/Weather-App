@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", async function () {
         } else if (data.weather[0].main == "Clear") {
           weatherIcon.src = "sunny.jpg";
         } else if (data.weather[0].main == "Wind") {
-          weatherIcon.src = "windy2.jpg";
+          weatherIcon.src = "windy.jpg";
         } else if (data.weather[0].main == "Rain") {
           weatherIcon.src = "rainy2.jpg";
         }
