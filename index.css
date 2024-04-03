@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   padding: 0;
@@ -15,7 +16,6 @@ body {
   left: 0;
   z-index: -1; 
 }
-
 
 .container {
   display: flex;
@@ -39,6 +39,7 @@ body {
   background-color: rgba(131, 128, 128, 0.3);
 }
 
+
 .search-section::before {
   content: "";
   position: absolute;
@@ -50,6 +51,7 @@ body {
   opacity: 0.5; 
   z-index: -1;
 }
+
 
 button {
   position: fixed;
@@ -67,8 +69,6 @@ button {
   height: 70px;
 
 }
-
-  
 
 
 .temp {
