@@ -1,6 +1,4 @@
-
-
-document.addEventListener("DOMContentLoaded", async function () {
+    document.addEventListener("DOMContentLoaded", async function () {
     const apiKey = "c3cd4cee8880b1b9c35ab2e8a1a9a032";
     const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
   
