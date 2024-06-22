@@ -54,8 +54,8 @@ body {
 
 button {
   position: fixed;
-  top: 50px;
-  right: 100px;
+  top: 55px;
+  right: 110px;
   z-index: 1; 
   cursor: pointer;
   font-size: 30px;
