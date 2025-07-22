@@ -8,48 +8,55 @@
     <title>weather app</title>
 </head>
 <body>
-    <div class="container">  
-        <div class="weather-section">
-            <img src="rainy.jpg" alt="Background Image" class="background-image">
-            <h1 class="temp">08°C</h1>
-            <h3 class="city">London, United Kingdom</h3>
-        </div>
-        <div class="search-section">
-        <div class="top-items">
-        <button><i class="fa fa-search"></i></button>
+  <div class="container">
+    <!-- Weather Section -->
+    <div class="weather-section">
+      <img src="rainy.jpg" alt="Background Image" class="background-image">
+      <h1 class="temp">08°C</h1>
+      <h3 class="city">London, United Kingdom</h3>
+    </div>
+
+    <!-- Search Section -->
+    <div class="search-section">
+      <!-- Search Bar and Button -->
+      <div class="search-form">
         <input type="text" placeholder="Search for a city..." spellcheck="false">
-       </div>
-       <div class="error">
-        Invalid city name
-       </div>
-            <p>New York</p>
-            <p>Los Angelos</p>
-            <p>Manchester</p>
-            <p>Califonia</p>
-            <hr class="horizon">
-            <h2 class="h2">Weather Details</h2>
-            <table class="weather-table">
-                <tr >
-                    <td>Cloudy</td>
-                    <td></td> 
-                    <td class="cloud">81%</td>
-                </tr>
-                <tr >
-                    <td>Humidity</td>
-                    <td></td>
-                    <td class="humidity">61%</td>
-                </tr>
-                <tr >
-                    <td>Wind</td>
-                    <td></td>
-                    <td class="wind">8km/h</td>
-                </tr>
-                </table>
-              </div>
-            </div>
+        <button type="submit"><i class="fa fa-search"></i></button>
+      </div>
 
-            <script src="style.js">
-            </script>
+      <!-- Error Message -->
+      <div class="error">Invalid city name</div>
+
+      <!-- Suggested Cities -->
+      <p>New York</p>
+      <p>Los Angeles</p>
+      <p>Manchester</p>
+      <p>California</p>
+
+      <hr class="horizon">
+
+      <!-- Weather Details -->
+      <h2 class="h2">Weather Details</h2>
+      <table class="weather-table">
+        <tr>
+          <td>Cloudy</td>
+          <td></td>
+          <td class="cloud">81%</td>
+        </tr>
+        <tr>
+          <td>Humidity</td>
+          <td></td>
+          <td class="humidity">61%</td>
+        </tr>
+        <tr>
+          <td>Wind</td>
+          <td></td>
+          <td class="wind">8km/h</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+
+  <!-- JavaScript -->
+  <script src="style.js"></script>
 </body>
-</html>
-
